@@ -1,0 +1,11 @@
+{
+  "name": "TestYarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Dam-Deng/TestYarn.git",
+  "author": "dam <240242398@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
